@@ -1,0 +1,12 @@
+.bg_background{
+    width: 100%;
+    height: 100vh;
+    background-image: linear-gradient(rgba(255, 255, 255, 0.4),rgba(233, 222, 222, 0.4)),url(bg_background.jpg);
+    background-size: cover;
+    background-position: center;
+}
+
+.col-4{
+    border: 2px solid #222;
+    background-color: rgb(235, 183, 221);
+}
